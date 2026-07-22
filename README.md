@@ -33,6 +33,9 @@ Outside of coding, I enjoy exploring open-source projects and learning from the 
 
 </div>
 
+## 🚀 Featured Projects
+1. **[churn-prediction-neural-networks](https://github.com/mniabedii/churn-prediction-neural-networks.git)** : Final project for the Artificial Intelligence course at KNTU - binary classification
+
 <div align="center">
 
 ## 🛠 Tech Stack
