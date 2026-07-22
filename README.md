@@ -77,7 +77,7 @@ Outside of coding, I enjoy exploring open-source projects and learning from the 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kazem-motealehi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://t.me/USERNAME" target="_blank">
+<a href="https://t.me/motealehi" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
 </a>
 <a href="mailto:k.motealehi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
